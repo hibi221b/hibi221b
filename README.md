@@ -3,7 +3,7 @@
 ### Home
 https://hibi221b.dev 
 
-## Github Pages
+### Github Pages
 https://hibi221b.github.io/
 
 <!--
