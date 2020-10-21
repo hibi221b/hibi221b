@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ### Home
-https://hibi221b.dev
+https://hibi221b.dev 
+
+## Github Pages
 https://hibi221b.github.io/
 
 <!--
