@@ -3,9 +3,6 @@
 ### Home
 https://hibi221b.dev 
 
-### Github Pages
-https://hibi221b.github.io/
-
 <!--
 **hibi221b/hibi221b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
